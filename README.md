@@ -15,3 +15,4 @@
  
  ## 
 
+![Snake animation](https://github.com/SabrinaPVaz/SabrinaPVaz/blob/output/github-contribution-grid-snake.svg)
