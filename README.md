@@ -2,7 +2,7 @@
 👋 Hi, i'm Sabrina 
 
 - 👩‍🦰 I’m currently studying Analysis and Systems Development, second semester
-- 📖 Learning basic programming in Python, C, HTML5, CSS3 and JS
+- 📖 Learning how to programming in Python, C, HTML5, CSS3 and JS
 - 🎯 I’m looking to improve my knowledge
 - 📫 How to reach me: https://www.linkedin.com/in/sabrina-pereira-vaz-1105b4200/
 - 💎 Fun fact: I'm a physiotherapist and I'm migrating to the technology area
