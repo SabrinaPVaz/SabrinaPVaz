@@ -2,9 +2,10 @@
 👋 Hi, i'm Sabrina 
 
 - 👩‍🦰 I’m currently studying Analysis and Systems Development, second semester
+- 💻 Software developer Intern 
 - 📖 Learning and discovering how to programming 
 - 🎯 I’m looking for improve my knowledge
-- 💎 Fun fact: I'm a physiotherapist and I'm changing my career migrating to the technology area
+- 🩺 Fun fact: I was Phisiotherapist before to be Dev 
 
  <div>
   <a href="https://github.com/SabrinaPVaz">
@@ -12,6 +13,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPVaz&layout=compact&langs_count8=&theme=dracula"/>
 </div>
  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="80" src=https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white>
+  <img align="center" alt="Rafa-Js" height="30" width="80" src=https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white>
+  <img align="center" alt="Rafa-Js" height="30" width="80" src=https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java>
+  <img align="center" alt="Rafa-Js" height="30" width="80" src=https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white>
+  <img align="center" alt="Rafa-Js" height="30" width="100" src=https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
