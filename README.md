@@ -10,7 +10,7 @@
  <div>
   <a href="https://github.com/SabrinaPVaz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SabrinaPVaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPVaz&layout=compact&langs_count6=&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPVaz&layout=compact&langs_count8=&theme=dracula"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="80" src=https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white>
