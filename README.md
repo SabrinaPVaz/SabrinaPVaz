@@ -3,7 +3,7 @@
 
 - 👩‍🦰 I’m currently studying Analysis and Systems Development, second semester
 - 💻 Software developer Intern 
-- 📖 Learning and discovering how to programming 
+- 📖 Learning and discovering everyday something newEnli
 - 🎯 I’m looking for improve my knowledge
 - 🩺 Fun fact: I was Phisiotherapist before to be Dev 
 
