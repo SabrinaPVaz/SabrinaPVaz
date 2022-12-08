@@ -1,9 +1,9 @@
 ##
 👋 Hi, i'm Sabrina 
 
-- 👩‍🦰 I’m currently studying Analysis and Systems Development, second semester
-- 💻 Software developer Intern 
-- 📖 Learning and discovering everyday something newEnli
+- 👩‍🦰 I’m currently studying Analysis and Systems Development, last semester
+- 💻 Java Backend Software developer at Philips Clinical Informatics
+- 📖 Learning and discovering everyday something
 - 🎯 I’m looking for improve my knowledge
 - 🩺 Fun fact: I was Phisiotherapist before to be Dev 
 
